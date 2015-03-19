@@ -23,6 +23,7 @@ When the recipient of a message is not logged in, the message will be saved by t
 
 
 
+
 2. Chat Client
 The chat client has the following responsibilities:
 
@@ -59,6 +60,7 @@ i. From this point onwards, A can send private messages directly to B using the 
 
 
 Advanced
+
 P2P Privacy and Consent
 1.1 When A requests for B’s IP address, the message centre should notify B that A wants to talk it. If B agrees to the conversation, the server should provide A with B’s IP address. Else, A cannot initiate a conversation with B.
 1.2 When A requests for B’s IP address, the message centre should check B’s blacklist preferences. If B’s blacklist includes A, the message centre should not provide B’s IP address to A.
@@ -69,7 +71,9 @@ login
 ![Alt text](https://raw.githubusercontent.com/LinyinWu/ChatRoom/master/test%20pictures/login.png)
 
 block
+
 ![alt tag](https://raw.githubusercontent.com/LinyinWu/ChatRoom/master/test%20pictures/block.png)
+
 
 display current users
 ![alt tag](https://raw.githubusercontent.com/LinyinWu/ChatRoom/master/test%20pictures/display%20current%20users.png)
