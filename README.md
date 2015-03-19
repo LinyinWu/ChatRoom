@@ -22,6 +22,7 @@ f. Offline Messaging:
 When the recipient of a message is not logged in, the message will be saved by the message centre. When the recipient logs in next, the message centre will display all the unread messages stored.
 
 
+
 2. Chat Client
 The chat client has the following responsibilities:
 
@@ -69,6 +70,7 @@ login
 
 block
 ![alt tag](https://raw.githubusercontent.com/LinyinWu/ChatRoom/master/test%20pictures/block.png)
+
 display current users
 ![alt tag](https://raw.githubusercontent.com/LinyinWu/ChatRoom/master/test%20pictures/display%20current%20users.png)
 
