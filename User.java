@@ -8,7 +8,7 @@ public class User {
 	int loginState = 0;
 	long blockTime = 0;
 	int onlineElapsed = 0;
-	int LIVE_TIME = 120;	/* 30s */
+	int LIVE_TIME = 30;	/* 30s */
 	ArrayList<String> blacklist = new ArrayList<String>();
 	ArrayList<String> mailbox = new ArrayList<String>();
 
